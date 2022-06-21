@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Arthur Cavalcante👋
 
--  🔭 Cursando : Sistemas para Internet
-- 🌱 Estudando : Desenvolvimento Web (HTML, CSS e JS)
-- 📫 Contate-me por: arthurcavalcantethur@gmail.com
+-  🔭 Cursando : Sistemas para Internet 
 
 <div>
   <a href="https:/github.com/Thurcavalcante">
