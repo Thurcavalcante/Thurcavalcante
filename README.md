@@ -6,9 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arthurcavalcantethur@gmail.com)
 
 ![Thurcavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=Thurcavalcante&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&layout=compact)](https://github.com/Thurcavalcante/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&layout=compact&langs_count=7&theme=dracula)](https://github.com/Thurcavalcante/github-readme-stats) 
 ## Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
