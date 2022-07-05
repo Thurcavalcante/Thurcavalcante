@@ -4,9 +4,9 @@
 <h2 align="center">Olá! Eu sou o Arthur Cavalcante ✌️</h2><br/>
 
 <div align="center">
-    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=synthwave" alt="Thurcavalcante" /></br>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=synthwave&show_icons=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=synthwave&layout=compact" />
+    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=dracula" alt="Thurcavalcante" /></br>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=dracula&show_icons=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=dracula&layout=compact" />
 </div></br>
 
 <h2 align="center">Tecnologias que eu uso no meu dia:</h2>
