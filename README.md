@@ -3,12 +3,10 @@
 
 <h2 align="center">Olá! Eu sou o Arthur Cavalcante ✌️</h2><br/>
 
-<div>
-<p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=synthwave" alt="Thurcavalcante" /></ p>
-<p align="center">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=synthwave&show_icons=true" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=synthwave&layout=compact" />
-</p>
+<div align="center">
+    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=synthwave" alt="Thurcavalcante" /></br>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=synthwave&show_icons=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=synthwave&layout=compact" />
 </div></br>
 
 <h2 align="center">Tecnologias que eu uso no meu dia:</h2>
