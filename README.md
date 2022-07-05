@@ -1,16 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cavalcante-303b51219/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arthurcavalcantethur@gmail.com)
 
-<a href = "https://www.linkedin.com/in/arthur-cavalcante-303b51219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "arthurcavalcantethur@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-
 <h2 align="center">Olá! Eu sou o Arthur Cavalcante ✌️</h2><br/>
-
-- Iniciante no mundo da programação.
-- Estudante de ADS no IFRN (2° período).
-- Foco em Desenvolvimento Web.
-- Aprimorando meus conhecimentos Javascript e como bibliotecas conhecidas em.
-- Espero conseguir oferecer sempre o meu melhor.
 
 <div align="center">
     <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=dracula" alt="Thurcavalcante" /></br>
