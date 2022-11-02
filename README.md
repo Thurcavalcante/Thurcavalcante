@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao meu perfil GitHub<br>Sou o Arthur Cavalcante 😄
+## Olá, bem-vindo(a) ao meu perfil GitHub<br>Sou o Arthur Cavalcante 😄
 <div>
   <p>🎓 Estudante de desenvolvimento front-end</p>
   <p>🧠 "Nunca diga nunca, porque os limites, como os medos, muitas vezes são apenas uma ilusão.” - Michael Jordan</p>
