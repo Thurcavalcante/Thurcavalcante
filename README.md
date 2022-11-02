@@ -1,5 +1,4 @@
 ## Hi! Welcome to my GitHub profile.
-
 <div>
   <p>🎓 FrontEnd development student | Java student!</p>
   <p>🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan</p>
@@ -8,12 +7,13 @@
 ##
 
 <div align="center">
+  <a href="https://github.com/Thurcavalcante">
   <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=dracula&show_icons=true" />
   <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=dracula&layout=compact" />
   <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=dracula" alt="Thurcavalcante" />
 </div>
 
-## Techs
+## Tech
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,10 +25,10 @@
   <img align="center" alt="Thur-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Thur-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   
-  <img align="right" alt="Spider" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif">
+  <img align="right" alt="Spider" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/h2MouomJFCpMfWVfUj/giphy.gif">
 </div>
 
-## Redes 
+## Network 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thurcavalcante/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thur-cavalcante)
