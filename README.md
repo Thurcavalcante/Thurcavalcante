@@ -1,23 +1,38 @@
+## Hi! Welcome to my GitHub profile.
+
+<div>
+  <p>🎓 FrontEnd development student | Java student!</p>
+  <p>🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan</p>
+</div>
+
+##
+
+<div align="center">
+  <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=dracula&show_icons=true" />
+  <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=dracula&layout=compact" />
+  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=dracula" alt="Thurcavalcante" />
+</div>
+
+<div style="display: inline_block"><br/>
+<p align="center">
+  <img align="center" alt="HTML" height="40" width="40" src="">
+  <img align="center" alt="CSS" height="40" width="40" src="">
+  <img align="center" alt="JS" height="40" width="40" src="">
+  <img align="center" alt="Bootstrap" height="40" width="40" src="">
+  <img align="center" alt="Java" height="40" width="40" src="">
+  <img align="center" alt="Python" height="40" width="40" src="">
+  <img align="center" alt="Django" height="40" width="40" src="">
+  <img align="center" alt="Word Press" height="40" width="40" src="">
+  <img align="center" alt="Figma" height="40" width="40" src="">
+  
+  <img align="right" alt="Spider" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif">
+ </p>
+</div>
+
+##
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thurcavalcante/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thur-cavalcante)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cavalcantethur@gmail.com)
 
-<h2 align="center">Olá! Eu sou o Arthur Cavalcante ✌️</h2><br/>
-
-<div align="center">
-    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=dracula" alt="Thurcavalcante" /></br>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=dracula&show_icons=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=dracula&layout=compact" />
-</div></br>
-
-<h2 align="center">Tecnologias que eu uso no meu dia:</h2>
-<div style="display: inline_block"><br/>
-<p align="center">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
- </p>
-</div>
+![Snake animation](https://github.com/FragaInDev/FragaInDev/blob/output/github-contribution-grid-snake.svg)
