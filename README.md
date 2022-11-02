@@ -1,4 +1,4 @@
-## Hi! Welcome to my GitHub profile.
+## Olá, bem-vindo ao meu perfil GitHub<br>Sou o Arthur Cavalcante 😄
 <div>
   <p>🎓 FrontEnd development student</p>
   <p>🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan</p>
@@ -13,7 +13,7 @@
   <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=dracula" alt="Thurcavalcante" />
 </div>
 
-## Tech
+## Tecnologias que mais utilizo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +28,7 @@
   <img align="right" alt="Spider" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/h2MouomJFCpMfWVfUj/giphy.gif">
 </div>
 
-## Network 
+## Redes Sociais 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thurcavalcante/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thur-cavalcante)
