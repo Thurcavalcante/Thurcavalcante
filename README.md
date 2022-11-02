@@ -1,6 +1,6 @@
 ## Hi! Welcome to my GitHub profile.
 <div>
-  <p>🎓 FrontEnd development student | Java student!</p>
+  <p>🎓 Systems for Internet</p>
   <p>🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan</p>
 </div>
 
