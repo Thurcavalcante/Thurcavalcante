@@ -1,7 +1,7 @@
 ## Olá, bem-vindo ao meu perfil GitHub<br>Sou o Arthur Cavalcante 😄
 <div>
-  <p>🎓 FrontEnd development student</p>
-  <p>🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan</p>
+  <p>🎓 Estudante de desenvolvimento front-end</p>
+  <p>🧠 "Nunca diga nunca, porque os limites, como os medos, muitas vezes são apenas uma ilusão.” - Michael Jordan</p>
 </div>
 
 ##
