@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/Thurcavalcante">
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=dracula&show_icons=true" />
-  <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=dracula&layout=compact" />
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=dracula" alt="Thurcavalcante" />
+  <img width="48%" height="" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=dracula&show_icons=true" />
+  <img width="47%" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=dracula&layout=compact" />
+  <img width="" height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=dracula" alt="Thurcavalcante" />
 </div>
 
 ## Tecnologias que mais utilizo
