@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/Thurcavalcante">
-  <img width="48%" height="" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&theme=dracula&show_icons=true" />
-  <img width="47%" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&theme=dracula&layout=compact" />
-  <img width="" height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=dracula" alt="Thurcavalcante" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thurcavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thurcavalcante&theme=tokyonight" alt="Thurcavalcante" />
 </div>
 
 ## Tecnologias que mais utilizo
@@ -35,3 +35,5 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Code Pen](https://img.shields.io/badge/CodePen-%23333?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/your-work/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cavalcantethur@gmail.com)
+  
+![Snake animation](https://github.com/Thurcavalcante/Thurcavalcante/blob/output/github-contribution-grid-snake.svg)
