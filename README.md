@@ -37,3 +37,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cavalcantethur@gmail.com)
   
 ![Snake animation](https://github.com/Thurcavalcante/Thurcavalcante/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Thur/count.svg?"  />
+</div>
