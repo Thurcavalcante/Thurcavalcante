@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem-vindo+ao+meu+perfil;Me+chamo+Arthur+Cavalcante,+tenho+24+anos;Sou+Estudante+de+Sistemas+para+Internet;E+com+foco+no+desenvolvimento+Front-end;+Hello+World+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thurcavalcante&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thurcavalcante&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
