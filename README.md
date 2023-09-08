@@ -40,5 +40,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Thur/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Thurcavalcante/count.svg?"  />
 </div>
