@@ -29,17 +29,17 @@
 
 ## Contacts:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thurcavalcante/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thur_dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thur-cavalcante)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Code Pen](https://img.shields.io/badge/CodePen-%23333?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/your-work/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cavalcantethur@gmail.com)
   
 ![Snake animation](https://github.com/Thurcavalcante/Thurcavalcante/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <div align="center">
   <p><b>Visitors Count</p> 
   <img src="https://profile-counter.glitch.me/Thurcavalcante/count.svg?"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
