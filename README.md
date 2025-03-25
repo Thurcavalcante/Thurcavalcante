@@ -23,6 +23,7 @@
   <img align="center" alt="Thur-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thur-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Thur-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Thur-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   
   <img align="right" alt="Spider" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/h2MouomJFCpMfWVfUj/giphy.gif">
 </div>
